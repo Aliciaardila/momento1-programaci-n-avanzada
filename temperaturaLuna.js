@@ -24,6 +24,7 @@ let temperaturaMedia=(temperaturaMaxima,temperaturaMinima)=>{
 let temperaturaM = temperaturaMedia (20,10)
 console.log(`La Temperatura media de la luna es: ${temperaturaM}` );
 
+
 // Flecha optimizada
 
 
